@@ -1,2 +1,2 @@
-
-print("hello python")
+def run_test():
+    print("this is my test")
