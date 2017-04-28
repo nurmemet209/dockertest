@@ -1,3 +1,3 @@
-from Dockerfile.dockertest import run_test
+from secondprint import newtest
 
-run_test()
+newtest()
